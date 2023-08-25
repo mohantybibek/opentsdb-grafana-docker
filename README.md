@@ -4,4 +4,5 @@ A docker compose file to setup Grafana with OpenTSDB/Hbase as the default data s
 
 ## Usage
 $ docker-compose up -d
+$ docker-compose up -d
 
