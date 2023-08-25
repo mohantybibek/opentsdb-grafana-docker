@@ -1,4 +1,5 @@
 #!/bin/sh
+#!/bin/sh
 
 GRAFANA_HOST="${GRAFANA_HOST:-grafana}"
 TSDB_HOST="${TSDB_HOST:-opentsdb}"
